@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jumperstumper
-- 👀 I’m interested in Webdevelopment, back-end dev
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning .Net
 - 📫 How to reach me https://www.linkedin.com/in/daniel-eriksson-a2939383/
 
