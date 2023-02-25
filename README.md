@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jumperstumper
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning .Net
+- 👀 I’m interested in .Net & C++
+- 🌱 I’m currently learning C++ & SQL
 - 📫 How to reach me https://www.linkedin.com/in/daniel-eriksson-a2939383/
 
 <!---
